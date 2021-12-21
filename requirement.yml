@@ -1,0 +1,14 @@
+name: ecogym
+channels:
+  - defaults
+  - fastai
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.9
+  - nbdev
+  - numpy
+  - gym
+  - seaborn
+  - matplotlib
+  - stable-baselines3
