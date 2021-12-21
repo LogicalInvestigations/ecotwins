@@ -1,13 +1,14 @@
 
-# Project name here
-> Summary description here.
+# Ecogym
+> Ecogym is a simple ecosystem simulator based on OpenAI gym. 
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`conda env create -f=requirement.yml -n ecogym`
+`nbdev_install_git_hooks`
 
 ## How to use
 

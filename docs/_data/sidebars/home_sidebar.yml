@@ -12,6 +12,24 @@ entries:
     - output: web,pdf
       title: The Ecotwin gym worlds
       url: core.html
+    - output: web,pdf
+      title: Ecosystems
+      url: animal_classes.html
+    - output: web,pdf
+      title: Preliminary imports
+      url: worlds.html
+    - output: web,pdf
+      title: The EcoEnv class
+      url: ecoenv.html
+    - output: web,pdf
+      title: Happiness functions
+      url: happiness.html
+    - output: web,pdf
+      title: Title
+      url: utility.html
+    - output: web,pdf
+      title: ReflexAgent
+      url: reflex_agent.html
     output: web
     title: ecotwins
   output: web

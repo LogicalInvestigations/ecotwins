@@ -1,6 +1,12 @@
 {
   "ecotwins": {
     "Overview": "/",
-    "The Ecotwin gym worlds": "core.html"
+    "The Ecotwin gym worlds": "core.html",
+    "Ecosystems": "animal_classes.html",
+    "Preliminary imports": "worlds.html",
+    "The EcoEnv class": "ecoenv.html",
+    "Happiness functions": "happiness.html",
+    "Title": "utility.html",
+    "ReflexAgent": "reflex_agent.html"
   }
 }
