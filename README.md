@@ -8,6 +8,7 @@ This file will become your README and also the index of your documentation.
 ## Install
 
 `conda env create -f=requirement.yml -n ecogym`
+
 `nbdev_install_git_hooks`
 
 ## How to use
